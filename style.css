@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+body {
+  padding: 100px;
+  overflow: hidden;
+}
+.lang-select {
+  font-size: 18px;
+  width: 300px;
+  border-radius: 5px;
+  padding: 5px;
+}
+h1 {
+  font-size: 4rem;
+  margin-top: 2.5rem;
+}
+.secondary-text {
+  font-size: 1.2rem;
+}
+.texts {
+  line-height: 4rem;
+}
+/* so css completed */
